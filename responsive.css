@@ -1,0 +1,108 @@
+@media screen and (max-width: 922px) {
+  /* /* .input-search .button-secondary {
+    width: 110px;
+    font-size: 14px;
+  }
+
+  .input-search .button-primary {
+    font-size: 18px;
+    width: 20%;
+  } */
+
+  .input-search .form-control {
+    height: 88px !important;
+    width: 30%;
+  }
+
+  .nearest-button {
+    width: 100%;
+  }
+
+  #contact h3 {
+    font-size: 30px;
+    width: 100%;
+  }
+
+  .card-contact {
+    width: 100%;
+    height: auto;
+    padding: 52px 48px;
+    margin-top: 42px;
+  }
+
+  .card-contact h2 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 21px;
+  }
+
+  .button-primary {
+    display: block;
+    width: 100%;
+  }
+
+  .button-secondary {
+    display: block;
+    width: 100%;
+  }
+
+  .hero-tag h1 {
+    font-size: 42px;
+    margin-top: 28px;
+    line-height: 50px;
+  }
+
+  .hero-tag p {
+    font-size: 14px;
+    margin-bottom: 20px;
+    margin-top: 24px;
+    line-height: 20px;
+    width: 85%;
+}
+
+@media screen and (max-width: 576px) {
+
+  .img-hero {
+    width: 80%;
+    height: auto;
+  }
+
+  #hero h1 {
+    font-size: 48px;
+  }
+
+  h2 {
+    font-size: 34px;
+  }
+
+  .service-card {
+    margin: 15px 0;
+  }
+
+  #search h2 {
+    font-size: 40px;
+    line-height: 50px;
+  }
+
+  .sub-title-search {
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+  }
+
+  .input-search .button-secondary {
+    width: 50%;
+    height: 60px;
+  }
+
+  .input-search .button-primary {
+    height: 60px;
+    width: 30%;
+    font-size: 20px;
+  }
+
+  .input-search .form-control {
+    height: 60px !important;
+    width: 50%;
+  }
+}}
